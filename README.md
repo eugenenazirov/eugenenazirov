@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugenenazirov
-- 👀 I’m interested in Python Backend Development
-- 🌱 I’m currently learning Assynchronous Python, Poetry-packaging and dependencies management.
+- 👀 Junior Python Backend Development
+- 🌱 I’m currently learning PostgreSQL, Django & Fast API.
 - 💞️ I have married in 2021.
 - 📫 How to reach me - Telegram: @evgenynazirov
 
