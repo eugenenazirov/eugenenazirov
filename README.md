@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugenenazirov
 - 👀 Junior Python Backend Development
-- 🌱 I’m currently learning PostgreSQL, Django & Fast API.
+- 🌱 I’m currently learning Fast API.
 - 💞️ I have married in 2021.
 - 📫 How to reach me - Telegram: @evgenynazirov
 
