@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eugenenazirov
-- 👀 Backend Development on Python/Django.
+- 👀 Backend Developer on Python/Django.
 - 🌱 I’m currently learning PHP & Go.
 - 💞️ I have married in 2021.
 - 📫 How to reach me - Telegram: @evgenynazirov
