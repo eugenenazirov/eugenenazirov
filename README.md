@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugenenazirov
-- 👀 Backend Developer on Python/Django.
-- 🌱 I’m currently learning PHP & Go.
+- 👀 Fullstack Developer (Python/Node.js + React).
+- 🌱 I’m currently learning React + Node.js.
 - 💞️ I have married in 2021.
 - 📫 How to reach me - Telegram: @eugenenazirov
 
