@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugenenazirov
-- 👀 Fullstack Developer (Python/FastAPI + JS).
-- 🌱 I’m currently learning Angular & Node.js.
+- 👀 Fullstack Developer: Python/FastAPI/Django + JS/TS/Angular.
+- 🌱 I’m currently learning Java & Spring Framework.
 - 💞️ I have married in 2021.
 - 📫 How to reach me - Telegram: @eugenenazirov
 
