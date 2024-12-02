@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eugenenazirov
 - 👀 Fullstack Developer: Golang/Python + JS/TS/Angular.
-- 🌱 I’m currently interesting in Java & Spring Framework.
-- 💞️ I have married in 2021.
+- 🌱 I’m currently interested in System Design & Architecture.
+- 💞️ Got married in 2021.
 - 📫 How to reach me - Telegram: @eugenenazirov
 
 <!---
