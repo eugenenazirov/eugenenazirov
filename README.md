@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eugenenazirov
-- 👀 Fullstack Developer: Golang/Python + JS/TS/Angular.
+- 👀 Fullstack Developer: Golang/Python + JS/TS/React/Angular.
 - 🌱 I’m currently interested in System Design & Architecture.
 - 💞️ Got married in 2021.
 - 📫 How to reach me - Telegram: @eugenenazirov
