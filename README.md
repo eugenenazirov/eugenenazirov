@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @eugenenazirov
-- 👀 Fullstack Developer: Golang/Python + JS/TS/React/Angular.
+# 👋 Hi, I’m Eugene
+- ⚙️ Backend Developer: Golang/Python
+- 💻 Also experienced in Frontend: JS/TS/React/Angular.
+- 🤖 AI Enthusiast
 - 🌱 I’m currently interested in System Design & Architecture.
 - 💞️ Got married in 2021.
-- 📫 How to reach me - Telegram: @eugenenazirov
+- 📫 **How to reach me**:
+  - [Telegram](t.me/eugenenazirov)
+  - [LinkedIn](https://www.linkedin.com/in/eugene-nazirov/)
 
 <!---
 eugenenazirov/eugenenazirov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
