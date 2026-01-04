@@ -7,6 +7,7 @@
 - 📫 **How to reach me**:
   - [Telegram](t.me/eugenenazirov)
   - [LinkedIn](https://www.linkedin.com/in/eugene-nazirov/)
+  - [eugenenazirov@gmail.com](mailto:eugenenazirov@gmail.com)
 
 <!---
 eugenenazirov/eugenenazirov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
