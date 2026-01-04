@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Eugene
+# 👋 Hi, I’m Eugene Nazirov
 - ⚙️ Backend Developer: Golang/Python
 - 💻 Also experienced in Frontend: JS/TS/React/Angular.
 - 🤖 AI Enthusiast
